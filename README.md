@@ -1,3 +1,3 @@
-# A Hello World Spring Boot App
+# hello-world-spring-boot
 
-A Hello World Spring Boot app.
+A hello world spring boot app.
